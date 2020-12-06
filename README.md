@@ -4,4 +4,8 @@
  <br><br>
  <b>Snapshot of UI part and Database entry also</b><br>
 ![](https://github.com/iamketan56/PHP_MINI_PROJECT/blob/main/Contact%20Page/UI_Part_1.PNG)
+
+<br>
+<b>After Click Send Button</b>
+<br>
 ![](https://github.com/iamketan56/PHP_MINI_PROJECT/blob/main/Contact%20Page/UI_Part_2.PNG)
